@@ -103,3 +103,5 @@ TODO: research authentication methods
 AA's NFT or SBT can be set from the account factory, can be used in marketing, or AANS.
 
 AA NFT market can be redefined
+
+## 7. Native Token
